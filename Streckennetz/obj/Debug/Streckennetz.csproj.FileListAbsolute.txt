@@ -1,0 +1,7 @@
+D:\AIT Aufgabe\Streckennetz\Streckennetz\bin\Debug\Streckennetz.exe.config
+D:\AIT Aufgabe\Streckennetz\Streckennetz\bin\Debug\Streckennetz.exe
+D:\AIT Aufgabe\Streckennetz\Streckennetz\bin\Debug\Streckennetz.pdb
+D:\AIT Aufgabe\Streckennetz\Streckennetz\obj\Debug\Streckennetz.csproj.AssemblyReference.cache
+D:\AIT Aufgabe\Streckennetz\Streckennetz\obj\Debug\Streckennetz.csproj.CoreCompileInputs.cache
+D:\AIT Aufgabe\Streckennetz\Streckennetz\obj\Debug\Streckennetz.exe
+D:\AIT Aufgabe\Streckennetz\Streckennetz\obj\Debug\Streckennetz.pdb

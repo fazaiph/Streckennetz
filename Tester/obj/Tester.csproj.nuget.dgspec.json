@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\AIT Aufgabe\\Streckennetz\\Tester\\Tester.csproj": {}
+  },
+  "projects": {
+    "D:\\AIT Aufgabe\\Streckennetz\\Streckennetz\\Streckennetz.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\AIT Aufgabe\\Streckennetz\\Streckennetz\\Streckennetz.csproj",
+        "projectName": "Streckennetz",
+        "projectPath": "D:\\AIT Aufgabe\\Streckennetz\\Streckennetz\\Streckennetz.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\AIT Aufgabe\\Streckennetz\\Tester\\Tester.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\AIT Aufgabe\\Streckennetz\\Tester\\Tester.csproj",
+        "projectName": "Tester",
+        "projectPath": "D:\\AIT Aufgabe\\Streckennetz\\Tester\\Tester.csproj",
+        "packagesPath": "C:\\Users\\dekth\\.nuget\\packages\\",
+        "outputPath": "D:\\AIT Aufgabe\\Streckennetz\\Tester\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\dekth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\AIT Aufgabe\\Streckennetz\\Streckennetz\\Streckennetz.csproj": {
+                "projectPath": "D:\\AIT Aufgabe\\Streckennetz\\Streckennetz\\Streckennetz.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
